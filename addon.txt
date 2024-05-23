@@ -1,0 +1,11 @@
+"AddonInfo"
+{
+    "name"              "Bounty System"
+    "version"           "1"
+    "up_date"           "00/00/00"
+    "author_name"       "doug"
+    "author_email"      ""
+    "author_url"        "https://github.com/wjayess/bountysystem"
+    "info"              "Bounty system addon for my server"
+    "override"          "0"
+}

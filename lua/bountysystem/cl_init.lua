@@ -1,0 +1,1 @@
+include("bountysystem/cl_bounty.lua")
