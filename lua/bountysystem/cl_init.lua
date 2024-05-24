@@ -1,1 +1,1 @@
-include("bountysystem/cl_bounty.lua")
+include("bountysystem/bounty/cl_bounty.lua")
